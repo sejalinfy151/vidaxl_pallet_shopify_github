@@ -1,0 +1,47 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "17397707007bb7f576": {
+      "type": "apps",
+      "blocks": {
+        "nitro_lookbook_lookbook_block_JNXrYJ": {
+          "type": "shopify://apps/nitro-lookbook/blocks/lookbook-block/cc1f7d0a-9bac-40f1-a181-859d84a3417f",
+          "settings": {
+            "lookbook_id": "d5a9e215-4f86-4e8f-9a35-12591422ef50",
+            "heading": "",
+            "sub_heading": "",
+            "heading_font_size": "1.2",
+            "heading_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "nitro_lookbook_lookbook_block_JNXrYJ"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17397707007bb7f576"
+  ]
+}
